@@ -3,4 +3,10 @@ npm install express
 npm install body-parser (support api get parrameter from client)
 npm install body-parser dotenv ejs express (ejs is view engine)
 npm install --save-dev @babel/core @babel/node @babel/preset-env nodemon (@babel compile js between many js version nodemon auto reset server  when update code)
+npm i sequelize (mysql)
 
+npm install --save-dev sequelize-cli
+
+npx sequelize-cli init on src
+
+.sequelizerc
